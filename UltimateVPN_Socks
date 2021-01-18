@@ -3,6 +3,6 @@
   "ProxyPort" : "90",
   "SslPort" : "8020",
   "SshPort" : "2500",
-  "Version" : "1.06",
-  "Update" : "New GTM NoLoad SocksHttp"
+  "Version" : "1.07",
+  "Update" : "Online Update v1.07"
 }
