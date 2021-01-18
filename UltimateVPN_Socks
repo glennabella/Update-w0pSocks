@@ -3,6 +3,6 @@
   "ProxyPort" : "90",
   "SslPort" : "8020",
   "SshPort" : "2500",
-  "Version" : "1.02",
-  "Update" : "New Version"
+  "Version" : "1.03",
+  "Update" : "New Globe/TM NoLoad App<br>Sockshttp Base"
 }
