@@ -3,6 +3,6 @@
   "ProxyPort" : "90",
   "SslPort" : "8020",
   "SshPort" : "2500",
-  "Version" : "1.27",
-  "Update" : "Caloocan Only (v1.27)"
+  "Version" : "1.28",
+  "Update" : "NoLoad & Promo SSL (v1.28)"
 }
