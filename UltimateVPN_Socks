@@ -4,5 +4,5 @@
   "SslPort" : "8020",
   "SshPort" : "2500",
   "Version" : "3.38",
-  "Update" : "New Payload/Server Added (v3.38)"
+  "Update" : "Buildin DNS Server (v3.39)"
 }
