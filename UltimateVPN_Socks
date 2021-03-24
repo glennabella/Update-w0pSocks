@@ -3,6 +3,6 @@
   "ProxyPort" : "3128",
   "SslPort" : "8020",
   "SshPort" : "2500",
-  "Version" : "3.41",
-  "Update" : "Please Click \"RESTART\" to Update!\uD83D\uDC47"
+  "Version" : "3.43",
+  "Update" : "(OldLink) Please Click \"RESTART\" to Update!\uD83D\uDC47"
 }
