@@ -3,6 +3,6 @@
   "ProxyPort" : "3128",
   "SslPort" : "8020",
   "SshPort" : "2500",
-  "Version" : "3.39",
-  "Update" : "Buildin DNS Server (v3.39)"
+  "Version" : "3.40",
+  "Update" : "Buildin DNS Server (v3.40)"
 }
